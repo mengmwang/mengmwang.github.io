@@ -1,11 +1,24 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title: GitHub profile created. 
+date: 2022-6-23 16:11:00+1000
+inline: false
 ---
+
+***
+
+I create my GitHub profile to showcase the learning and project experience for my journey in Data Science. 
+
+My GitHub repos contain the data science/signal processing challenges, projects, certificates and etc. 
+
+<br/>
+
+![Mengmeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengmwang&count_private=true&show_icons=true&theme=nord)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mengmwang&layout=compact&langs_count=5&theme=nord)
+
+
+{% comment %}
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
 #### Hipster list
@@ -18,13 +31,12 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
-<hr>
+***
 
 Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
 
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
+> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+> —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+{% endcomment %}
