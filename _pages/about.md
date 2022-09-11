@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>The University of Melbourne</a>. Address. Contacts. Moto. Etc.
-subtitle: PhD Researcher. Signal Processing Practitioner. Data Science Enthusiast.
+subtitle: <b>PhD Researcher | Signal Processing Practitioner | Data Science Enthusiast</b>
 
 profile:
   align: right
@@ -14,12 +14,20 @@ profile:
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there, this is Mengmeng Wang. Welcome to 
+Hi! Welcome!
+
+My name is Mengmeng Wang (Chinese as 王萌萌). I'm a Ph.D Researcher at the [Department of Biomedical Engineering](https://biomedical.eng.unimelb.edu.au/) and [Melbourne Brain Centre Imaging Unit](https://medicine.unimelb.edu.au/school-structure/medicine/research/mbciu) at the [University of Melbourne](https://www.unimelb.edu.au/) working with [Prof. Leigh Johnston](https://findanexpert.unimelb.edu.au/profile/15352-leigh-johnston) and [Dr. Katie Davey](https://findanexpert.unimelb.edu.au/profile/145109-katie-davey). 
+
+My current research interests include statistical signal processing methods used in functional brain imaging applications. Previously, I have been working on image processing, telecommunications engineering and various projects across electrical engineering, biomedical engineering and computer science.  
+
+I received my bachelor's degree degree from Beijing University of Posts and Telecommunications and my master's degree from University of Bristol, both in Electrical and Electronic Engineering. Prior to moving to Australia in 2017, I was working as a consulting engineer in China Academy of Information and Communications Technology.
+
+I'm passionate about data science and machine learning applications. I enjoy solving challenging problems in statistical data modelling, big data analytics and machine learning. 
 
 {% comment %} 
 
