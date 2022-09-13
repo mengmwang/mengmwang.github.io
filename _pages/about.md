@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! Welcome!
+Hello! Welcome!
 
-My name is Mengmeng Wang (Chinese as 王萌萌). I'm a Ph.D Researcher at the [Department of Biomedical Engineering](https://biomedical.eng.unimelb.edu.au/) and [Melbourne Brain Centre Imaging Unit](https://medicine.unimelb.edu.au/school-structure/medicine/research/mbciu) at the [University of Melbourne](https://www.unimelb.edu.au/) working with [Prof. Leigh Johnston](https://findanexpert.unimelb.edu.au/profile/15352-leigh-johnston) and [Dr. Katie Davey](https://findanexpert.unimelb.edu.au/profile/145109-katie-davey). 
+My name is Mengmeng Wang (Chinese as 王萌萌). I'm a Ph.D. Researcher at the [Department of Biomedical Engineering](https://biomedical.eng.unimelb.edu.au/) and [Melbourne Brain Centre Imaging Unit](https://medicine.unimelb.edu.au/school-structure/medicine/research/mbciu) at the [University of Melbourne](https://www.unimelb.edu.au/) working with [Prof. Leigh Johnston](https://findanexpert.unimelb.edu.au/profile/15352-leigh-johnston) and [Dr. Katie Davey](https://findanexpert.unimelb.edu.au/profile/145109-katie-davey). 
 
 My current research interests include statistical signal processing methods used in functional brain imaging applications. Previously, I have been working on image processing, telecommunications engineering and various projects across electrical engineering, biomedical engineering and computer science.  
 

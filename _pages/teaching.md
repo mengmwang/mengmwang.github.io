@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Presentations, teaching and other services.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 ***
