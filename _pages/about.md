@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>The University of Melbourne</a>. Address. Contacts. Moto. Etc.
-subtitle: <b>PhD Researcher | Signal Processing Practitioner | Data Science Enthusiast</b>
+subtitle: <b>PhD | Researcher | Data Scientist</b>
 
 profile:
   align: right
