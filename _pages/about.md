@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>The University of Melbourne</a>. Address. Contacts. Moto. Etc.
-subtitle: <b>PhD | Researcher | Data Scientist</b>
+subtitle: <b>PhD | Data Scientist | Researcher</b>
 
 profile:
   align: right
@@ -19,15 +19,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! Welcome!
+Welcome to my page! 
 
-My name is Mengmeng Wang (Chinese as 王萌萌). I'm a Ph.D. Researcher at the [Department of Biomedical Engineering](https://biomedical.eng.unimelb.edu.au/) and [Melbourne Brain Centre Imaging Unit](https://medicine.unimelb.edu.au/school-structure/medicine/research/mbciu) at the [University of Melbourne](https://www.unimelb.edu.au/) working with [Prof. Leigh Johnston](https://findanexpert.unimelb.edu.au/profile/15352-leigh-johnston) and [Dr. Katie Davey](https://findanexpert.unimelb.edu.au/profile/145109-katie-davey). 
+My name is Mengmeng Wang (Chinese as 王萌萌). I am currently working as a Data Scientist at Orygen and Centre for Youth Mental Health at the University of Melbourne. 
 
-My current research interests include statistical signal processing methods used in functional brain imaging applications. Previously, I have been working on image processing, telecommunications engineering and various projects across electrical engineering, biomedical engineering and computer science.  
+As part of my daily work, 
+- I conduct data cleaning, statistical modelling and analysis using Python and R programming languages;
+- I work with different types of data such as survey data and administrative healthcare records;
+- I develop/apply machine learning and natural language processing methods for health outcome prediction. 
 
-I received my bachelor's degree degree from Beijing University of Posts and Telecommunications and my master's degree from University of Bristol, both in Electrical and Electronic Engineering. Prior to moving to Australia in 2017, I was working as a consulting engineer in China Academy of Information and Communications Technology.
+I received my PhD degree in biomedical engineering from the University of Melbourne, working on statistical signal processing methods used in functional near-infrared spectroscopy.
 
-I'm passionate about data science and machine learning applications. I enjoy solving challenging problems in statistical data modelling, big data analytics and machine learning. 
+Previously, I have experience in neuroimaging and signal processing, image processing, telecommunications engineering and various projects across electrical engineering, biomedical engineering and computer science.
+
+I’m passionate about data science and machine learning applications. I enjoy solving challenging problems in statistical data modelling, big data analytics and machine learning. 
 
 {% comment %} 
 
