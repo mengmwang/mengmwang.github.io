@@ -13,7 +13,7 @@ nav_order: 1
 
 #### Signal Analysis Techniques for Resting State Functional Near-Infrared Spectroscopy
 
-*April 2017 - Present*
+*April 2017 - December 2022*
 
 [Functional Near-InfraRed Spectroscopy (fNIRS)](https://en.wikipedia.org/wiki/Functional_near-infrared_spectroscopy) has widespread acceptance as a non-invasive neuroimaging modality of monitoring cerebral perfusion and brain functional activities. It offers advantages such as safety, affordability and portability. FNIRS uses light in near infra-red spectrum (600-900nm) to penetrate human brain tissue and estimates the oxygenation condition based on the proportion of light absorbed. The focus for the research is signal processing methods used in fNIRS.
 
