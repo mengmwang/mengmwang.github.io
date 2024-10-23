@@ -24,7 +24,7 @@ Welcome to my page!
 My name is Mengmeng Wang (Chinese as 王萌萌). I am currently working as a Data Scientist at Orygen and Centre for Youth Mental Health at the University of Melbourne. 
 
 As part of my daily work, 
-- I conduct data cleaning, statistical modelling and analysis using Python and R programming languages;
+- I conduct data cleaning, statistical modelling, analysis and visualisation using Python and R programming languages;
 - I work with different types of data such as survey data and administrative healthcare records;
 - I develop/apply machine learning and natural language processing methods for health outcome prediction. 
 
