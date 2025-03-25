@@ -40,19 +40,6 @@ Functional Near-Infrared Spectroscopy (fNIRS) signals are contaminated by variou
 
 <!-- _pages/publications.md -->
 ## Publications
-<div class="publications">
-
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
-
-<!-- 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
 
@@ -60,4 +47,4 @@ Functional Near-Infrared Spectroscopy (fNIRS) signals are contaminated by variou
 
 {% bibliography %}
 
-</div> -->
+</div> 
