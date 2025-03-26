@@ -3,8 +3,6 @@
     "name": "Mengmeng Wang",
     "label": "Data Scientist, Engineer, Researcher",
     "image": "",
-    "email": "mengmeng.wang.phd@gmail.com",
-    "phone": "+61-466-989-626",
     "url": "https://mengmwang.github.io/",
     "summary": "A dedicated data scientist and researcher with a multidisciplinary background in electrical engineering, biomedical engineering, and computer science. Experienced in data analysis, machine learning, and large language models.",
     "location": {
@@ -57,7 +55,7 @@
     {
       "institution": "The University of Melbourne",
       "area": "Statistical Signal Processing",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2017-01-01",
       "endDate": "2023-01-01",
       "courses": []
@@ -127,35 +125,35 @@
     {
       "name": "The changing impacts of social determinants on youth mental health in Australia",
       "publisher": "The International Journal of Social Psychiatry",
-      "releaseDate": "2025-01-01",
+      "releaseDate": "2025",
       "url": "",
       "summary": ""
     },
     {
       "name": "Correction of induced functional connectivity in filtered resting state fNIRS data",
       "publisher": "OHBM Annual Meeting",
-      "releaseDate": "2021-01-01",
+      "releaseDate": "2021",
       "url": "",
       "summary": ""
     },
     {
       "name": "Correction for time-varying signal power in fNIRS connectivity analyses",
       "publisher": "Society of fNIRS Virtual Conference",
-      "releaseDate": "2021-01-01",
+      "releaseDate": "2021",
       "url": "",
       "summary": ""
     },
     {
       "name": "Motion Artefact Removal in Functional Near-infrared Spectroscopy Signals Based on Robust Estimation",
       "publisher": "IEEE ICASSP",
-      "releaseDate": "2019-01-01",
+      "releaseDate": "2019",
       "url": "",
       "summary": ""
     },
     {
       "name": "A very low complexity reduced reference video quality metric based on spatio-temporal information selection",
       "publisher": "IEEE ICIP",
-      "releaseDate": "2015-01-01",
+      "releaseDate": "2015",
       "url": "",
       "summary": ""
     }
@@ -168,12 +166,6 @@
       "endDate": "2022-12-01",
       "summary": "Mentored Year 11/12 female students interested in science and engineering.",
       "highlights": ["Encouraged young women to pursue STEM education"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available Upon Request",
-      "reference": ""
     }
   ]
 }

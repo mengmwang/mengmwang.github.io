@@ -3,7 +3,6 @@ layout: page
 permalink: /research/
 title: Research
 description: Research and Publications
-years: [2021, 2019, 2015]
 nav: true
 nav_order: 1
 ---

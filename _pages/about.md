@@ -30,18 +30,18 @@ latest_posts:
 
 Welcome to my page! 
 
-My name is Mengmeng Wang (Chinese as 王萌萌). I am currently working as a Data Scientist at Orygen and Centre for Youth Mental Health at the University of Melbourne. 
+My name is Mengmeng Wang. I am currently working as a Data Scientist at Orygen and Centre for Youth Mental Health at the University of Melbourne. 
 
 As part of my daily work, 
 - I conduct data cleaning, statistical modelling, analysis and visualisation using Python and R programming languages;
 - I work with different types of data such as survey data and administrative healthcare records;
 - I develop/apply machine learning and natural language processing methods for health outcome prediction. 
 
-I received my PhD degree in biomedical engineering from the University of Melbourne, working on statistical signal processing methods used in functional near-infrared spectroscopy.
+I received my PhD degree in biomedical engineering from the University of Melbourne. My thesis is on statistical signal processing methods used in functional near-infrared spectroscopy.
 
-Previously, I have experience in neuroimaging and signal processing, image processing, telecommunications engineering and various projects across electrical engineering, biomedical engineering and computer science.
+Previously, I worked in neuroimaging and signal processing, image processing, telecommunications engineering and various projects across electrical engineering, biomedical engineering and computer science.
 
-I’m passionate about data science and machine learning applications. I enjoy solving challenging problems in statistical data modelling, big data analytics and machine learning. 
+I’m passionate about data science, machine learning and large language model applications. I enjoy solving challenging problems in statistical data modelling, big data analytics and machine learning. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
