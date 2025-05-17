@@ -81,19 +81,45 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": ["Python", "R", "SQL", "MATLAB"]
+      "keywords": [
+        "Python",
+        "R",
+        "SQL",
+        "MATLAB"
+      ]
     },
     {
       "name": "Technical Tools",
-      "keywords": ["GitHub", "Tableau", "Power BI", "Excel"]
+      "keywords": [
+        "GitHub",
+        "Tableau",
+        "Power BI",
+        "Excel"
+      ]
     },
     {
       "name": "Python Libraries",
-      "keywords": ["Pandas", "NumPy", "Scikit-Learn", "transformers", "NLTK", "SciPy", "Matplotlib", "JSON", "RegEx"]
+      "keywords": [
+        "Pandas",
+        "NumPy",
+        "Scikit-Learn",
+        "transformers",
+        "NLTK",
+        "SciPy",
+        "Matplotlib",
+        "JSON",
+        "RegEx"
+      ]
     },
     {
       "name": "Professional",
-      "keywords": ["Data Analysis", "Technical Writing", "Project Management", "Teamwork", "Communications"]
+      "keywords": [
+        "Data Analysis",
+        "Technical Writing",
+        "Project Management",
+        "Teamwork",
+        "Communications"
+      ]
     }
   ],
   "projects": [
@@ -102,34 +128,46 @@
       "summary": "Applied advanced natural language processing techniques and large language models (LLMs) to extract, structure, and utilise insights from unstructured clinical text. This project includes text de-identification, topic clustering and outcome prediction.",
       "url": "",
       "highlights": [
-        "Project 1 - Medical Case Note De-identification: Developed an LLM-based de-identification pipeline to detect and mask personally identifiable information (PII) from clinical notes, integrating external data sources and domain-specific rules.",
-        "Project 2 - Topic Modelling and Clustering: Implemented a BERTopic-based framework to extract latent themes and group similar clinical case notes.",
-        "Project 3 - Outcome Prediction: Designed and validated predictive models using structured data and text embeddings to forecast clinical outcomes."
+        "Project 1 - Medical case note de-identification: Developed an automated, large language models (LLMs) based de-identification pipeline to identify and identify and mask personally identifiable information (PII) from clinical notes. The solution integrates external data sources (eg. location-based information) and goes beyond generic NER by incorporating real-world domain-specific knowledge.",
+        "Project 2 - Topic Modelling and Clustering: Implemented a BERTopic-based framework to extract latent themes and group similar clinical case notes. Identified key clinical topics and themes through unsupervised clustering.",
+        "Project 3 - Outcome prediction: Designed and validated models using structured features and text embeddings to predict clinical outcomes."
       ]
     },
     {
       "name": "EEG Data Analysis in Music Therapy",
       "summary": "Analysed EEG data in music therapy research, including data cleaning, preprocessing, and statistical analysis.",
       "url": "",
-      "highlights": ["EEG data analysis and visualisation", "Collaboration with health professionals, doctors and music therapists"]
+      "highlights": [
+        "EEG data analysis and visualisation",
+        "Collaboration with health professionals, doctors and music therapists"
+      ]
     },
     {
       "name": "Financial Timeseries Processing and Forecast",
       "summary": "Performed financial data analysis and timeseries forecasting using machine learning models.",
       "url": "",
-      "highlights": ["Data cleaning and preparation: outlier detection, data visualisation and feature engineering", "Data analysis: correlation, moving-average, auto-regression analysis", "Timeseries forecasting: auto-regression model and machine learning models (decision tree, logistic regression, neural networks)"]
+      "highlights": [
+        "Data cleaning and preparation: outlier detection, data visualisation and feature engineering",
+        "Data analysis: correlation, moving-average, auto-regression analysis",
+        "Timeseries forecasting: auto-regression model and machine learning models (decision tree, logistic regression, neural networks)"
+      ]
     },
     {
       "name": "Customer Purchasing Behaviors Analysis",
       "summary": "Analysed transaction data to find patterns in customer behavior.",
       "url": "",
-      "highlights": ["Data pipeline: cleaning, preparation and visualisation", "Draw Business insights based on analysis results"]
+      "highlights": [
+        "Data pipeline: cleaning, preparation and visualisation",
+        "Draw Business insights based on analysis results"
+      ]
     },
     {
       "name": "Reinforcement Learning and Multi-Armed Bandits (MABs)",
       "summary": "Implemented and evaluated reinforcement learning algorithms including UCB and LinUCB.",
       "url": "",
-      "highlights": ["ϵ-Greedy, Upper Confidence Bound (UCB) models"]
+      "highlights": [
+        "ϵ-Greedy, Upper Confidence Bound (UCB) models"
+      ]
     }
   ],
   "publications": [
@@ -197,7 +235,9 @@
       "startDate": "2021-03-01",
       "endDate": "2022-12-01",
       "summary": "Mentored Year 11/12 female students interested in science and engineering.",
-      "highlights": ["Encouraged young women to pursue STEM education"]
+      "highlights": [
+        "Encouraged young women to pursue STEM education"
+      ]
     }
   ]
 }
