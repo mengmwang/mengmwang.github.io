@@ -102,9 +102,9 @@
       "summary": "Applied advanced natural language processing techniques and large language models (LLMs) to extract, structure, and utilise insights from unstructured clinical text. This project includes text de-identification, topic clustering and outcome prediction.",
       "url": "",
       "highlights": [
-        "Medical Case Note De-identification: Developed an LLM-based de-identification pipeline to detect and mask personally identifiable information (PII) from clinical notes, integrating external data sources and domain-specific rules.",
-        "Topic Modelling and Clustering: Implemented a BERTopic-based framework to extract latent themes and group similar clinical case notes.",
-        "Outcome Prediction: Designed and validated predictive models using structured data and text embeddings to forecast clinical outcomes."
+        "Project 1 - Medical Case Note De-identification: Developed an LLM-based de-identification pipeline to detect and mask personally identifiable information (PII) from clinical notes, integrating external data sources and domain-specific rules.",
+        "Project 2 - Topic Modelling and Clustering: Implemented a BERTopic-based framework to extract latent themes and group similar clinical case notes.",
+        "Project 3 - Outcome Prediction: Designed and validated predictive models using structured data and text embeddings to forecast clinical outcomes."
       ]
     },
     {
