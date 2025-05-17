@@ -106,7 +106,7 @@
         "Topic Modelling and Clustering: Implemented a BERTopic-based framework to extract latent themes and group similar clinical case notes.",
         "Outcome Prediction: Designed and validated predictive models using structured data and text embeddings to forecast clinical outcomes."
       ]
-    }
+    },
     {
       "name": "EEG Data Analysis in Music Therapy",
       "summary": "Analysed EEG data in music therapy research, including data cleaning, preprocessing, and statistical analysis.",
