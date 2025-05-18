@@ -57,24 +57,24 @@
       "institution": "The University of Melbourne",
       "area": "Statistical Signal Processing",
       "studyType": "Doctor of Philosophy",
-      "startDate": "2017-01-01",
-      "endDate": "2023-01-01",
+      "startDate": "2017",
+      "endDate": "2023",
       "courses": []
     },
     {
       "institution": "University of Bristol",
       "area": "Image Processing",
       "studyType": "Master of Science",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "startDate": "2013",
+      "endDate": "2014",
       "courses": []
     },
     {
       "institution": "Beijing University of Posts and Telecommunications",
       "area": "Telecommunications Engineering",
       "studyType": "Bachelor of Engineering",
-      "startDate": "2009-01-01",
-      "endDate": "2013-01-01",
+      "startDate": "2009",
+      "endDate": "2013",
       "courses": []
     }
   ],
