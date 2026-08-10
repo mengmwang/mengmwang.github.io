@@ -33,7 +33,7 @@ Functional Near-Infrared Spectroscopy (fNIRS) signals are contaminated by variou
 
 _June 2014 - December 2014_
 
-[This paper](../assets/pdf/WANG_ICIP2015_Paper.pdf) presents a reduced reference video quality metric that exploits contrast and motion sensitivity characteristics of the HVS to perform a spatio-temporal selection of reference data. Spatio-temporal selection is realised through mapping of wavelet subbands to contrast sensitivity and through motion analysis. The proposed method is integrated with a modified SSIM-based framework to produce STIS-SSIM, a very low complexity reduced reference metric. The metric is shown to offer significant performance improvement over many existing full reference and reduced reference video quality metrics when tested on the LIVE video database.
+This paper presents a reduced reference video quality metric that exploits contrast and motion sensitivity characteristics of the HVS to perform a spatio-temporal selection of reference data. Spatio-temporal selection is realised through mapping of wavelet subbands to contrast sensitivity and through motion analysis. The proposed method is integrated with a modified SSIM-based framework to produce STIS-SSIM, a very low complexity reduced reference metric. The metric is shown to offer significant performance improvement over many existing full reference and reduced reference video quality metrics when tested on the LIVE video database.
 
 <br>
 
@@ -58,7 +58,7 @@ _June 2014 - December 2014_
 Here is a list of conference presentations and invited talks.
 
 - Invited talk at [the Bionic Institute of Australia](https://www.bionicsinstitute.org/) on 25 May 2021
-- Poster presentation at [fNIRS2021](https://fnirs2021.org/) on 18-2O October 2021
+- Poster presentation at fNIRS2021 on 18-2O October 2021
 - Poster presentation at [OHBM2021](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4041) on 21-25 June 2021
 - Poster presentation at [ICASSP2019](https://www.2019.ieeeicassp.org/2019.ieeeicassp.org/index.html) on 12-17 May 2019
 - Poster presentation at [ICIP2015](https://www.icip2015.org/) on 27-30 September 2015
