@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: <b>PhD | Data Scientist | Researcher</b>
+subtitle: <b>Data Scientist | Applied ML & GenAI — LLM pipelines, predictive modelling, statistical analysis</b>
 
 profile:
   align: right
@@ -28,6 +28,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a data scientist working across applied ML, GenAI, and statistical analysis. I currently work as a Data Scientist / Research Fellow at Orygen, Centre for Youth Mental Health, University of Melbourne, where I build predictive machine learning models (XGBoost, SHAP), conduct statistical analyses, and develop LLM and GenAI pipelines for extracting and synthesising evidence from clinical literature and unstructured research data.
+I'm Mengmeng — a data scientist working across applied ML, GenAI, and statistical analysis.
 
-My foundation is in statistical signal processing — I hold a PhD in Biomedical Engineering from the University of Melbourne, with a thesis on resting-state functional near-infrared spectroscopy (fNIRS), published in the Journal of Neuroscience Methods (2026) and presented at IEEE ICASSP.
+🔬 Data Scientist / Research Fellow at the University of Melbourne (Centre for Youth Mental Health)
+
+💡 Recent work: predictive ML pipelines (XGBoost, SHAP), LLM/GenAI pipelines for evidence extraction and retrieval-augmented synthesis, and statistical analysis on large, complex datasets
+
+🛠️ Core toolkit: Python, R, SQL · XGBoost, SHAP · LLMs, RAG, local model deployment (Ollama)
+
+📄 PhD in statistical signal processing, University of Melbourne
