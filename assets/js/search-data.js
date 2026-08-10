@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "A collection of applied ML and GenAI projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-research",
           title: "Research",
           description: "Research and Publications",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
-          },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Presentations, teaching and other services.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -382,51 +382,31 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+      },{id: "projects-applied-genai-evidence-extraction-amp-cross-paper-synthesis",
+          title: 'Applied GenAI: Evidence Extraction &amp;amp; Cross-Paper Synthesis',
+          description: "LLM-based pipeline for extracting structured data from clinical trial literature and synthesising evidence across papers.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/1_evidence_extraction/";
+            },},{id: "projects-retrieval-augmented-generation-system-for-research-resources",
+          title: 'Retrieval-Augmented Generation System for Research Resources',
+          description: "End-to-end RAG application with hybrid retrieval, reranking, and a streaming FastAPI backend.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/2_rag_system/";
+            },},{id: "projects-large-scale-text-analytics-via-ai-assisted-thematic-analysis",
+          title: 'Large-Scale Text Analytics via AI-Assisted Thematic Analysis',
+          description: "Privacy-preserving, reproducible thematic analysis pipeline for large-scale open-ended survey responses.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/3_thematic_analysis/";
+            },},{id: "projects-multimodal-outcome-prediction-from-linked-multi-source-data",
+          title: 'Multimodal Outcome Prediction from Linked Multi-Source Data',
+          description: "Multimodal XGBoost pipeline integrating structured clinical data with text-derived features across 175,000+ records.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/4_multimodal_prediction/";
+            },},{id: "projects-kidexplain",
+          title: 'KidExplain',
+          description: "Local-first web app using an LLM to translate concepts into age-appropriate language for children.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/5_kidexplain/";
             },},{
         id: 'social-email',
         title: 'email',
