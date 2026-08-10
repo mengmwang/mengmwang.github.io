@@ -81,45 +81,19 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [
-        "Python",
-        "R",
-        "SQL",
-        "MATLAB"
-      ]
+      "keywords": ["Python", "R", "SQL", "MATLAB"]
     },
     {
       "name": "Technical Tools",
-      "keywords": [
-        "GitHub",
-        "Tableau",
-        "Power BI",
-        "Excel"
-      ]
+      "keywords": ["GitHub", "Tableau", "Power BI", "Excel"]
     },
     {
       "name": "Python Libraries",
-      "keywords": [
-        "Pandas",
-        "NumPy",
-        "Scikit-Learn",
-        "transformers",
-        "NLTK",
-        "SciPy",
-        "Matplotlib",
-        "JSON",
-        "RegEx"
-      ]
+      "keywords": ["Pandas", "NumPy", "Scikit-Learn", "transformers", "NLTK", "SciPy", "Matplotlib", "JSON", "RegEx"]
     },
     {
       "name": "Professional",
-      "keywords": [
-        "Data Analysis",
-        "Technical Writing",
-        "Project Management",
-        "Teamwork",
-        "Communications"
-      ]
+      "keywords": ["Data Analysis", "Technical Writing", "Project Management", "Teamwork", "Communications"]
     }
   ],
   "projects": [
@@ -137,10 +111,7 @@
       "name": "EEG Data Analysis in Music Therapy",
       "summary": "Analysed EEG data in music therapy research, including data cleaning, preprocessing, and statistical analysis.",
       "url": "",
-      "highlights": [
-        "EEG data analysis and visualisation",
-        "Collaboration with health professionals, doctors and music therapists"
-      ]
+      "highlights": ["EEG data analysis and visualisation", "Collaboration with health professionals, doctors and music therapists"]
     },
     {
       "name": "Financial Timeseries Processing and Forecast",
@@ -156,18 +127,13 @@
       "name": "Customer Purchasing Behaviors Analysis",
       "summary": "Analysed transaction data to find patterns in customer behavior.",
       "url": "",
-      "highlights": [
-        "Data pipeline: cleaning, preparation and visualisation",
-        "Draw Business insights based on analysis results"
-      ]
+      "highlights": ["Data pipeline: cleaning, preparation and visualisation", "Draw Business insights based on analysis results"]
     },
     {
       "name": "Reinforcement Learning and Multi-Armed Bandits (MABs)",
       "summary": "Implemented and evaluated reinforcement learning algorithms including UCB and LinUCB.",
       "url": "",
-      "highlights": [
-        "ϵ-Greedy, Upper Confidence Bound (UCB) models"
-      ]
+      "highlights": ["ϵ-Greedy, Upper Confidence Bound (UCB) models"]
     }
   ],
   "publications": [
@@ -235,9 +201,7 @@
       "startDate": "2021-03-01",
       "endDate": "2022-12-01",
       "summary": "Mentored Year 11/12 female students interested in science and engineering.",
-      "highlights": [
-        "Encouraged young women to pursue STEM education"
-      ]
+      "highlights": ["Encouraged young women to pursue STEM education"]
     }
   ]
 }
