@@ -7,11 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-***
+---
 
 #### Signal Analysis Techniques for Resting State Functional Near-Infrared Spectroscopy
 
-*April 2017 - December 2022*
+_April 2017 - December 2022_
 
 [Functional Near-InfraRed Spectroscopy (fNIRS)](https://en.wikipedia.org/wiki/Functional_near-infrared_spectroscopy) has widespread acceptance as a non-invasive neuroimaging modality of monitoring cerebral perfusion and brain functional activities. It offers advantages such as safety, affordability and portability. FNIRS uses light in near infra-red spectrum (600-900nm) to penetrate human brain tissue and estimates the oxygenation condition based on the proportion of light absorbed. The focus for the research is signal processing methods used in fNIRS.
 
@@ -31,13 +31,14 @@ Functional Near-Infrared Spectroscopy (fNIRS) signals are contaminated by variou
 
 #### A Very Low Complexity Reduced Reference Video Quality Metric
 
-*June 2014 - December 2014*
+_June 2014 - December 2014_
 
 [This paper](../assets/pdf/WANG_ICIP2015_Paper.pdf) presents a reduced reference video quality metric that exploits contrast and motion sensitivity characteristics of the HVS to perform a spatio-temporal selection of reference data. Spatio-temporal selection is realised through mapping of wavelet subbands to contrast sensitivity and through motion analysis. The proposed method is integrated with a modified SSIM-based framework to produce STIS-SSIM, a very low complexity reduced reference metric. The metric is shown to offer significant performance improvement over many existing full reference and reduced reference video quality metrics when tested on the LIVE video database.
 
 <br>
 
 <!-- _pages/publications.md -->
+
 ## Publications
 
 {% include bib_search.liquid %}
@@ -53,7 +54,9 @@ Functional Near-Infrared Spectroscopy (fNIRS) signals are contaminated by variou
 ## Teaching
 
 #### Presentations
+
 Here is a list of conference presentations and invited talks.
+
 - Invited talk at [the Bionic Institute of Australia](https://www.bionicsinstitute.org/) on 25 May 2021
 - Poster presentation at [fNIRS2021](https://fnirs2021.org/) on 18-2O October 2021
 - Poster presentation at [OHBM2021](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4041) on 21-25 June 2021
@@ -61,10 +64,13 @@ Here is a list of conference presentations and invited talks.
 - Poster presentation at [ICIP2015](https://www.icip2015.org/) on 27-30 September 2015
 
 #### Teaching
+
 Here is a list of courses that I am tutoring/tutored, including my role as a Data Science and Machine Learning Tutor at the University of Melbourne.
+
 - COMP20008 Elements of Data Processing
 - COMP30027 Machine Learning
 - ELEN30012 Signals and Systems
 
 #### Volunteering
+
 - Girl Power Mentoring Program
