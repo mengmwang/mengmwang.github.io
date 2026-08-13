@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div class="about-content">
+<div class="about-content" markdown="1">
 
 ### What I do
 
