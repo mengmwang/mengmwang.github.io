@@ -62,9 +62,9 @@ ninja.data = [{
           description: "A personal end-to-end RAG application over Orygen&#39;s public training resources, with hybrid retrieval, reranking, and a streaming FastAPI backend.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_rag_system/";
-            },},{id: "projects-thematic-analysis-reporting-pipeline-for-large-scale-survey-data",
-          title: 'Thematic Analysis Reporting Pipeline for Large-Scale Survey Data',
-          description: "A reproducible R pipeline turning manually-coded open-ended survey responses into structured frequency analysis and reporting.",
+            },},{id: "projects-large-scale-text-analytics-via-ai-assisted-thematic-analysis",
+          title: 'Large-Scale Text Analytics via AI-Assisted Thematic Analysis',
+          description: "Privacy-preserving, reproducible thematic analysis pipeline for large-scale open-ended survey responses.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_thematic_analysis/";
             },},{id: "projects-multimodal-outcome-prediction-from-linked-multi-source-data",
