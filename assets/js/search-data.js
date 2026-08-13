@@ -57,14 +57,14 @@ ninja.data = [{
           description: "LLM-based pipeline for extracting structured data from clinical trial literature and synthesising evidence across papers.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_evidence_extraction/";
-            },},{id: "projects-retrieval-augmented-generation-system-for-research-resources",
-          title: 'Retrieval-Augmented Generation System for Research Resources',
-          description: "End-to-end RAG application with hybrid retrieval, reranking, and a streaming FastAPI backend.",
+            },},{id: "projects-retrieval-augmented-generation-system-for-training-resources",
+          title: 'Retrieval-Augmented Generation System for Training Resources',
+          description: "A personal end-to-end RAG application over Orygen&#39;s public training resources, with hybrid retrieval, reranking, and a streaming FastAPI backend.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_rag_system/";
-            },},{id: "projects-large-scale-text-analytics-via-ai-assisted-thematic-analysis",
-          title: 'Large-Scale Text Analytics via AI-Assisted Thematic Analysis',
-          description: "Privacy-preserving, reproducible thematic analysis pipeline for large-scale open-ended survey responses.",
+            },},{id: "projects-thematic-analysis-reporting-pipeline-for-large-scale-survey-data",
+          title: 'Thematic Analysis Reporting Pipeline for Large-Scale Survey Data',
+          description: "A reproducible R pipeline turning manually-coded open-ended survey responses into structured frequency analysis and reporting.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_thematic_analysis/";
             },},{id: "projects-multimodal-outcome-prediction-from-linked-multi-source-data",
